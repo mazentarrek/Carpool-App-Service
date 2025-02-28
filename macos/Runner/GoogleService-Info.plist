@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB9bzK_zKnZZ9cav82XzrP78m06yn9zthg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>408779212796</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.carpoolingService.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>carpool-service-1bd2e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carpool-service-1bd2e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:408779212796:ios:163b8f39b77b048f6ed479</string>
+</dict>
+</plist>
